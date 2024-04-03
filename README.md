@@ -8,11 +8,11 @@ Facultad de Comunicación y Documentación
 Univesidad de Granada  
 
 ----
-![img]()
+![img]([https://images.app.goo.gl/PG5TgcYi8SFg9JfE6](https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Tuenti_nuevo.png))
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** __Nuria Fernández, Paula VAN DER SLOOT, Juan Barriga
 
 **Resumen** : _________
 
