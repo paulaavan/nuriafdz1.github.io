@@ -8,7 +8,7 @@ Facultad de Comunicación y Documentación
 Univesidad de Granada  
 
 ----
-![img]([https://images.app.goo.gl/PG5TgcYi8SFg9JfE6](https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Tuenti_nuevo.png))
+![img]()
 
 **Titulo** : _______
 
