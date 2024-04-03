@@ -8,7 +8,7 @@ Facultad de Comunicación y Documentación
 Univesidad de Granada  
 
 ----
-!(img)(https://images.app.goo.gl/PG5TgcYi8SFg9JfE6)
+![img](https://images.app.goo.gl/PG5TgcYi8SFg9JfE6)
 
 **Titulo** : _______
 
