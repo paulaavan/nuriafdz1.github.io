@@ -1,4 +1,4 @@
-# El asesion de la fruta
+# El asesino de la fruta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -17,7 +17,7 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): 
 
 **Hashtag**  ___
 
@@ -29,7 +29,7 @@ Univesidad de Granada
 
 
 * :octocat: (github url) 
-* ArcWeave:
+* ArcWeave: https://arcweave.com/app/project/VO64VwOlxY/play
 * Protopie:
 *  
 
