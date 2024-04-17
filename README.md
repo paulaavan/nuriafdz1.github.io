@@ -1,4 +1,4 @@
-# (El asesion de la fruta)
+# El asesion de la fruta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : El asesino de la fruta
 
-**Autor(es)** ______________
+**Autor(es)** Juan Barriga, Paula van der Sloot, Nuria Fernández
 
-**Resumen** : _________
+**Resumen** : En una ciudad atormentada por una serie de asesinatos macabros, las pelusas escondidas en las sombras de las escenas del crimen se convierten en testigos inadvertidos pero poderosos. Mientras el misterioso asesino en serie deja una firma peculiar: fruta fresca junto a cada víctima, las diminutas pelusas se organizan en un susurro colectivo decididas a desentrañar la identidad del culpable. Guiadas por su lema "El suelta la fruta, nosotras la verdad", estas pequeñas guardianas de la verdad se embarcan en una búsqueda clandestina para revelar la identidad del asesino y llevar justicia a la ciudad.
 
 **logotipo** :  ________
 
